@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534218688380",
+    "project_id": "happy-wash-f",
+    "storage_bucket": "happy-wash-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534218688380:android:63f421ec56fccfa90ac6f9",
+        "android_client_info": {
+          "package_name": "co.inn.happy_wash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534218688380-6mpagv8fuvqom73kt1ma457e2ob5dnbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.inn.happy_wash",
+            "certificate_hash": "7ecdbe6cacc4f6947e223e935146fc0e157b6ac6"
+          }
+        },
+        {
+          "client_id": "534218688380-qj4v7vagbb6md0vt63lp1slks6kdvn2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCe36oC601XoOc4EWxWcvgLAJj7fEx1Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534218688380-qj4v7vagbb6md0vt63lp1slks6kdvn2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
